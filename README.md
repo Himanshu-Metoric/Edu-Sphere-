@@ -1,6 +1,6 @@
 # Edu-Sphere: AI-Driven Offline Learning Platform 
 
-* [Website]([https://metoric-meto.github.io/Glamour-Point](https://edusphere-8509e.web.app/login)/)
+* [Website](https://metoric-meto.github.io/Glamour-Point](https://edusphere-8509e.web.app/login))
 
 📌 Tackling Uneven Access to Quality Education in the Digital Age-
 🌍 About Edu-Sphere

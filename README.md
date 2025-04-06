@@ -1,4 +1,6 @@
-# Edu-Sphere: AI-Driven Offline Learning Platform * [Website]([https://metoric-meto.github.io/Glamour-Point](https://edusphere-8509e.web.app/login)/) 
+# Edu-Sphere: AI-Driven Offline Learning Platform 
+
+* [Website]([https://metoric-meto.github.io/Glamour-Point](https://edusphere-8509e.web.app/login)/) 
 📌 Tackling Uneven Access to Quality Education in the Digital Age-
 🌍 About Edu-Sphere
 Edu-Sphere is an AI-powered, offline-accessible learning platform designed to make quality education accessible, inclusive, and personalized for underserved communities. Unlike traditional e-learning platforms that require constant internet access, Edu-Sphere leverages:
